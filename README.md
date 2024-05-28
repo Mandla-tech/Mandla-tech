@@ -2,7 +2,7 @@
 
 I'm a passionate technology enthusiast with a strong interest in web and software development.
 
-💡  I like to explore new technologies and develop software solutions. I am a passionate FrontEnd developer.
+-💡  I like to explore new technologies and develop software solutions. I am a passionate FrontEnd developer.
 
 - 🔭 I’m currently in a bootcamp, sharpening my skills in React, Node.js, and Docker to expand my expertise from front-end to full-stack development.
   
@@ -16,7 +16,7 @@ I'm a passionate technology enthusiast with a strong interest in web and softwar
      Projects: Check out my GitHub repositories to see my latest projects and contributions.
 -->
 
-  ##🛠  Tech Stack
+  **🛠 Tech Stack**
   
   - **Languages:**
   - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
