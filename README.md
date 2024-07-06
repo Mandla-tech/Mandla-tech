@@ -1,8 +1,8 @@
 👋 **Hi there I'm Mandla**
 
-I'm a passionate technology enthusiast with a strong interest in web and software development.
+I'm a passionate technology enthusiast with a strong interest in Web and Software Development as well as Security.
 
--💡  I like to explore new technologies and develop software solutions. I am a passionate FrontEnd developer.
+-💡  I like to explore new technologies and develop software solutions with security in mind. I am a passionate FrontEnd developer.
 
 - 🔭 I’m currently in a bootcamp, sharpening my skills in React, Node.js, and Docker to expand my expertise from front-end to full-stack development.
   
