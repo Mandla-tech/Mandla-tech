@@ -39,7 +39,9 @@ I'm a passionate technology enthusiast with a strong interest in Web and Softwar
 
  
     **My Latest Blogs:**
-  - [Understanding JavaScript Debugging:](https://iammandla.hashnode.dev/understanding-javascript-debugging-solving-common-challenges-with-ease)
-  - [Securing Web Apps:](https://iammandla.hashnode.dev/securing-web-apps-an-overview-of-the-vital-role-of-developers)
   - [Git stash: Managing Uncommitted Changes Effectively.](https://iammandla.hashnode.dev/git-stash-managing-uncommitted-changes-effectively)
+  - [Securing Web Apps:](https://iammandla.hashnode.dev/securing-web-apps-an-overview-of-the-vital-role-of-developers)
+  - [Understanding JavaScript Debugging:](https://iammandla.hashnode.dev/understanding-javascript-debugging-solving-common-challenges-with-ease)
+  
+  
 
