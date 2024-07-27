@@ -36,4 +36,9 @@ I'm a passionate technology enthusiast with a strong interest in Web and Softwar
   - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   - ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
   - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+ 
+  - *My Latest Blogs:**
+  - [Understanding JavaScript Debugging:](https://iammandla.hashnode.dev/understanding-javascript-debugging-solving-common-challenges-with-ease)
+  - [Securing Web Apps:](https://iammandla.hashnode.dev/securing-web-apps-an-overview-of-the-vital-role-of-developers)
+  - [Git stash: Managing Uncommitted Changes Effectively.](https://iammandla.hashnode.dev/git-stash-managing-uncommitted-changes-effectively)
 
