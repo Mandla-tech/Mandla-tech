@@ -1,14 +1,15 @@
 👋 **Hi there I'm Mandla**
 
-I'm a passionate technology enthusiast with a strong interest in Web and Software Development as well as Security.
+Passionate about building secure and scalable applications and websites, with a focus on DevSecOps practices that integrate development, operations, and security.
 
--💡  I like to explore new technologies and develop software solutions with security in mind. I am a passionate FrontEnd developer.
+-💡  I like to explore new technologies and develop software solutions with security in mind. I am a passionate developer. Currently aligning my work with
+     DevSecOps practices by integrating development, operations, and security.
 
-- 🔭 I’m currently in a bootcamp, sharpening my skills in React, Node.js, and Docker to expand my expertise from front-end to full-stack development.
+- 🔭 I’m sharpening my skills in React, Node.js, Docker, and cloud tools while expanding from front-end development into full-stack and security-focused workflows.
   
-- 🌱 Current Focus: Front-end developer working towards becoming a full-stack developer. I'm currently in a bootcamp, sharpening my skills in React, Node.js, and Docker.
+- 🌱 Current Focus: Transitioning from front-end developer to full-stack developer with a strong emphasis on DevSecOps, automation, and secure software delivery.
   
-- 💬 Feel free to reach out to me about web design, consulting and security in mind development, or just for some interesting discussion.
+- 💬 Feel free to reach out to me about web/software development, secure coding, DevSecOps practices, or technology in general.
   
 - 📫 Shoot me an email at mandlamandla7@yahoo.co.uk
   
@@ -30,12 +31,14 @@ I'm a passionate technology enthusiast with a strong interest in Web and Softwar
   - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
     
 - **Tools & Environments:**
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   - ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
   - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+- **DevOps & Security Tools:**
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+  - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
  
     **My Latest Blogs:**
