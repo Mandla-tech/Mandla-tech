@@ -47,9 +47,10 @@ Apache Spark
 Microsoft Fabric
 
 ──────────────────────────
+
 Let's Connect
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/mandla-m/
 
 Portfolio: 
 
